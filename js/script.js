@@ -8,7 +8,7 @@ const global = {
         totalResults: 0
     },
     api: {
-        API_KEY:'c42805abafe25def68cba1e821cbc129',
+        API_KEY:'goto the movie db database and create one',
         API_URL:'https://api.themoviedb.org/3/',
     }
 };
